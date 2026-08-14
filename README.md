@@ -1,4 +1,10 @@
 # projeto
 Projeto principal
 
-Repositorio para fazer um trabalho em grupo.
+Repositório para fazer um trabalho em grupo.
+Grupo 1
+Renata,
+Ricardo,
+Sérgio, 
+Danielle,
+Fábio
