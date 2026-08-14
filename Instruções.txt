@@ -1,0 +1,19 @@
+Exercício prático - Trabalho colaborativo com branches
+
+Sigam os passos pela ordem indicada. O objetivo é praticar o fluxo completo: criar uma branch, partilhar alterações em grupo e, no fim, abrir um pull request.
+
+1. Criar e publicar a branch
+Acedam ao projeto e criem uma branch com o nome da vossa sala/grupo. De seguida, publiquem a branch.
+
+2. Criar o ficheiro (uma pessoa do grupo)
+Um dos elementos do grupo cria um ficheiro vazio, faz o commit e o push. Os restantes fazem pull para receberem a alteração.
+
+3. Escrever os nomes (todos, um de cada vez)
+Cada membro abre o ficheiro e escreve o seu nome - mas apenas um de cada vez:
+
+Quando alguém escreve o seu nome, faz commit e push;
+Os restantes fazem pull para receberem essa atualização;
+Passa ao membro seguinte, e assim sucessivamente, até todos terem o nome escrito.
+
+4. Abrir o pull request
+Quando todos os nomes estiverem no ficheiro, abram um pull request para a branch main.
