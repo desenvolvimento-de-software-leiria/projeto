@@ -9,6 +9,5 @@ Fábio,
 Renata,
 Ricardo,
 Sérgio
-i am serginhoooooooooooooo
-i like bananas
-gerdgwetwe
+i am serginho,o ursinho
+
